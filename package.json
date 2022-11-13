@@ -27,7 +27,7 @@
     "babel-preset-react-app": "^3.1.2",
     "now-were-even": "^0.1.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "description": ""
 }
